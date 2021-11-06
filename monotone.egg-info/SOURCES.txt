@@ -1,0 +1,5 @@
+setup.py
+monotone.egg-info/PKG-INFO
+monotone.egg-info/SOURCES.txt
+monotone.egg-info/dependency_links.txt
+monotone.egg-info/top_level.txt

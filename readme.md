@@ -1,5 +1,5 @@
-Montone Library can be used to used to check the min from a list a by checking whether the given list is monotonic decreasing
-and montononic increasing
+Montone Library can be used to check the minimum from a list a by checking whether the given list is monotonic decreasing
+and monotonic increasing
 
 Installation:
 
